@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Application</string>
+    <string name="card_title">BLACK FRIDAY</string>
+    <string name="img_url">IMAGE URL\n</string>
+    <string name="card_required">required\n</string>
+    <string name="pass">PASSWORD\n</string>
+</resources>
